@@ -1,2 +1,3 @@
-# researchComment
-Cooperative work for Research Comments
+# 学术报告评论项目
+
+该project为协作完成学术报告评论建立。
